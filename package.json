@@ -1,0 +1,35 @@
+{
+  "name": "github-basic-api",
+  "version": "1.0.0",
+  "description": "A package for interacting with GitHub API fast and easy.",
+  "main": "./dist/index.js",
+  "module": "./dist/index.mjs",
+  "types": "./dist/index.d.ts",
+  "homepage": "https://github.com/Kolosafo/github-basic-api",
+  "repository": {
+    "url": "https://github.com/Kolosafo/github-basic-api"
+  },
+  "scripts": {
+    "build": "tsup"
+  },
+  "keywords": [
+    "github",
+    "github-username",
+    "user",
+    "username",
+    "email",
+    "address",
+    "gh",
+    "git",
+    "repo"
+  ],
+  "author": "Kolosafo",
+  "license": "MIT",
+  "devDependencies": {
+    "tsup": "^8.0.2",
+    "typescript": "^5.3.3"
+  },
+  "dependencies": {
+    "axios": "^1.6.7"
+  }
+}
