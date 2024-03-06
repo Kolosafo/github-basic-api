@@ -1,6 +1,6 @@
 {
   "name": "github-basic-api",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A package for interacting with GitHub API fast and easy.",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
